@@ -8,7 +8,7 @@ Green
 Yellow
 Indigo
 Recycle!
-Red
-These are the colors of the rainbow
+**Red**
+*These are the colors of the rainbow*
 And the Unicorn
 And Pony
